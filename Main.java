@@ -6,3 +6,6 @@ public class Main {
         return c = a + b;
     }
 }
+
+int nima;
+// nimanima
