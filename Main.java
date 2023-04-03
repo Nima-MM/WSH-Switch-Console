@@ -8,4 +8,5 @@ public class Main {
 }
 
 int nima;
+char n;
 // nimanima
