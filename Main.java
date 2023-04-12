@@ -8,5 +8,6 @@ public class Main {
 }
 
 int nima;
+int nima12march;
 char n;
 // nimanima
