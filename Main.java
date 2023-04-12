@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import java.util.Scanner;
 
 public class Main {
@@ -152,20 +151,3 @@ public class Main {
     }
   }
 }
-=======
-public class Main {
-  boolean ort = false;
-  int player = 0;
-  int w = 0, h = 0, s = 0;
-  
-  public static void main(String[] args) {
-      uberAction();
-  }
-
-  public static void uberAction(){
-    System.out.println("HelloWorld!");        
-  }
-}
-
-
->>>>>>> b531776f8aa692901d7c9c96d1411e00abf05f2b
