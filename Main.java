@@ -1,13 +1,15 @@
 public class Main {
-    int a = 1;
-    int b = 2;
-    int c;
-   public int addition(){
-        return c = a + b;
-    }
+  boolean ort = false;
+  int player = 0;
+  int w = 0, h = 0, s = 0;
+  
+  public static void main(String[] args) {
+      uberAction();
+  }
+
+  public static void uberAction(){
+    System.out.println("HelloWorld!");        
+  }
 }
 
-int nima;
-int nima12march;
-char n;
-// nimanima
+
